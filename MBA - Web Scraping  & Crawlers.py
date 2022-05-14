@@ -1,15 +1,6 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# ### Aluno: Raul Henrique de Souza
-
-# #### Exercício 4 - Final
-
-# In[1]:
-
+# Web Scraping de pesquisa de climas nas cidades e estados do Brasil com Python usando BeautifulSoup e Selenium.
 
 # Importações necessárias
-
 from selenium import webdriver
 from bs4 import BeautifulSoup
 import requests
